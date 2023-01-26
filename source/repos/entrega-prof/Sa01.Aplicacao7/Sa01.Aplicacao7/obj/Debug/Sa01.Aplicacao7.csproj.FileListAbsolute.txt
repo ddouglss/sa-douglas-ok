@@ -1,0 +1,8 @@
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\bin\Debug\Sa01.Aplicacao7.exe.config
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\bin\Debug\Sa01.Aplicacao7.exe
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\bin\Debug\Sa01.Aplicacao7.pdb
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\obj\Debug\Sa01.Aplicacao7.csproj.AssemblyReference.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\obj\Debug\Sa01.Aplicacao7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\obj\Debug\Sa01.Aplicacao7.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\obj\Debug\Sa01.Aplicacao7.exe
+C:\Users\Douglas\source\repos\Sa01.Aplicacao7\Sa01.Aplicacao7\obj\Debug\Sa01.Aplicacao7.pdb

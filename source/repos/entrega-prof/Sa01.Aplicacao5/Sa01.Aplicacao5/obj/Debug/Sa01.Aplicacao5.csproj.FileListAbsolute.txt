@@ -1,0 +1,8 @@
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\bin\Debug\Sa01.Aplicacao5.exe.config
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\bin\Debug\Sa01.Aplicacao5.exe
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\bin\Debug\Sa01.Aplicacao5.pdb
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\obj\Debug\Sa01.Aplicacao5.csproj.AssemblyReference.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\obj\Debug\Sa01.Aplicacao5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\obj\Debug\Sa01.Aplicacao5.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\obj\Debug\Sa01.Aplicacao5.exe
+C:\Users\Douglas\source\repos\Sa01.Aplicacao5\Sa01.Aplicacao5\obj\Debug\Sa01.Aplicacao5.pdb
